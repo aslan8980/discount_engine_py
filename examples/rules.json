@@ -1,0 +1,13 @@
+[
+  {
+    "id": "WELCOME10",
+    "type": "percentage",
+    "value": 10,
+    "priority": 100,
+    "stackable": false,
+    "conditions": [
+      { "type": "user_type", "value": "new" },
+      { "type": "min_total", "value": 50 }
+    ]
+  }
+]
